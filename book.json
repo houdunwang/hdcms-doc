@@ -1,6 +1,6 @@
 {
-    "title": "向军大叔",
-    "description": "向军大叔技术分享",
+    "title": "HDCMS DOC",
+    "description": "HDCMS在线手册",
     "author": "向军大叔",
     "output.name": "site",
     "language": "zh-hans",
@@ -71,10 +71,10 @@
             ]
         },
         "github": {
-            "url": "https://github.com/houdunwang/book"
+            "url": "https://github.com/houdunwang/hdcms-doc"
         },
         "github-buttons": {
-            "repo": "houdunwang/book",
+            "repo": "houdunwang/hdcms-doc",
             "types": [
                 "star"
             ],
@@ -126,7 +126,7 @@
             "skipFirstH1": true
         },
         "edit-link": {
-            "base": "https://github.com/houdunwang/book/edit/master",
+            "base": "https://github.com/houdunwang/hdcms-doc/edit/master",
             "label": "Edit This Page"
         },
         "sitemap-general": {
@@ -151,8 +151,8 @@
             "style": "flat"
         },
         "rss": {
-            "title": "向军大叔技术文档分享",
-            "description": "向军大叔技术文档分享",
+            "title": "HDCMS",
+            "description": "HDCMS 在线手册",
             "author": "向军大叔",
             "feed_url": "http://gitbook.zhangjikai.com/rss",
             "site_url": "http://www.houdunren.com/",
