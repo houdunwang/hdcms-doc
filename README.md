@@ -1,2 +1,2 @@
-# HDCMS DOC
+# HDCMS 手册
 
